@@ -1,0 +1,14 @@
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\bin\Debug\netcoreapp3.1\LA.BLL.deps.json
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\bin\Debug\netcoreapp3.1\LA.BLL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\bin\Debug\netcoreapp3.1\LA.BLL.pdb
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\bin\Debug\netcoreapp3.1\LABOL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\bin\Debug\netcoreapp3.1\LADAL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\bin\Debug\netcoreapp3.1\LADAL.pdb
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\bin\Debug\netcoreapp3.1\LABOL.pdb
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\obj\Debug\netcoreapp3.1\LA.BLL.csproj.AssemblyReference.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\obj\Debug\netcoreapp3.1\LA.BLL.AssemblyInfoInputs.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\obj\Debug\netcoreapp3.1\LA.BLL.AssemblyInfo.cs
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\obj\Debug\netcoreapp3.1\LA.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\obj\Debug\netcoreapp3.1\LA.BLL.csproj.CopyComplete
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\obj\Debug\netcoreapp3.1\LA.BLL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LABLL\obj\Debug\netcoreapp3.1\LA.BLL.pdb

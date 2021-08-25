@@ -1,0 +1,9 @@
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\obj\Debug\netcoreapp3.1\LABOL.AssemblyInfoInputs.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\obj\Debug\netcoreapp3.1\LABOL.AssemblyInfo.cs
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\obj\Debug\netcoreapp3.1\LABOL.csproj.CoreCompileInputs.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\bin\Debug\netcoreapp3.1\LABOL.deps.json
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\bin\Debug\netcoreapp3.1\LABOL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\bin\Debug\netcoreapp3.1\LABOL.pdb
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\obj\Debug\netcoreapp3.1\LABOL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\obj\Debug\netcoreapp3.1\LABOL.pdb
+C:\Users\Jay\VisualStudioProjects\LinkAble\LinkAble\obj\Debug\netcoreapp3.1\LABOL.csproj.AssemblyReference.cache

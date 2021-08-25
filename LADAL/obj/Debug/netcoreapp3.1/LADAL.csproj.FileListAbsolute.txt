@@ -1,0 +1,15 @@
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\bin\Debug\netcoreapp3.1\LADAL.deps.json
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\bin\Debug\netcoreapp3.1\LADAL.runtimeconfig.json
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\bin\Debug\netcoreapp3.1\LADAL.runtimeconfig.dev.json
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\bin\Debug\netcoreapp3.1\LADAL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\bin\Debug\netcoreapp3.1\LADAL.pdb
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\obj\Debug\netcoreapp3.1\LADAL.csproj.AssemblyReference.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\obj\Debug\netcoreapp3.1\LADAL.AssemblyInfoInputs.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\obj\Debug\netcoreapp3.1\LADAL.AssemblyInfo.cs
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\obj\Debug\netcoreapp3.1\LADAL.csproj.CoreCompileInputs.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\obj\Debug\netcoreapp3.1\LADAL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\obj\Debug\netcoreapp3.1\LADAL.pdb
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\obj\Debug\netcoreapp3.1\LADAL.genruntimeconfig.cache
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\bin\Debug\netcoreapp3.1\LABOL.dll
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\bin\Debug\netcoreapp3.1\LABOL.pdb
+C:\Users\Jay\VisualStudioProjects\LinkAble\LADAL\obj\Debug\netcoreapp3.1\LADAL.csproj.CopyComplete
